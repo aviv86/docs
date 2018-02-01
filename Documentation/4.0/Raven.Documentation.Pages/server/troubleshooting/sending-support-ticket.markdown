@@ -33,6 +33,8 @@ For an ASP.NET application you can also configure proxy server as follow:
 </system.net>
 {CODE-END /}
 
+For an ASP.NET CORE application, instruction on how to configure proxy server can be found in this [article](http://josephwoodward.co.uk/2016/07/proxying-http-requests-asp-net-core-using-kestrel)  
+
 By default Fiddler listens on port `8888` and FiddlerCap on `8889`.
 {INFO/}
 
@@ -40,7 +42,7 @@ By default Fiddler listens on port `8888` and FiddlerCap on `8889`.
 
 The NuGet package has been created for easier RavenDB test creation and can be downloaded [here](https://www.nuget.org/packages/RavenDB.TestDriver/).
 
-The package contains base class (`RavenTestDriver`) with various methods useful for test creation:
+The package contains base class [RavenTestDriver](../../start/test-driver) with various methods useful for test creation:
 
 - `GetDocumentStore`
 - `WaitForIndexing`
