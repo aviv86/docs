@@ -2,67 +2,37 @@
     {
         "Path": "what-is-a-session-and-how-does-it-work.markdown",
         "Name": "What is a Session and How Does it Work",
-        "Mappings": [
-            {
-                "Version": 1.0,
-                "Key": "client-api/basic-operations/understanding-session-object"
-            }
-        ],
+        "Mappings": [],
         "IsPlaceholder": "true"
     },
     {
         "Path": "opening-a-session.markdown",
         "Name": "Opening a Session",
-        "Mappings": [
-            {
-                "Version": 1.0,
-                "Key": "client-api/basic-operations/opening-a-session"
-            }
-        ],
+        "Mappings": [],
         "IsPlaceholder": "true"
     },
     {
         "Path": "storing-entities.markdown",
         "Name": "Storing Entities",
-        "Mappings": [
-            {
-                "Version": 1.0,
-                "Key": "client-api/basic-operations/saving-new-document"
-            }
-        ],
+        "Mappings": [],
         "IsPlaceholder": "true"
     },
     {
         "Path": "deleting-entities.markdown",
         "Name": "Deleting Entities",
-        "Mappings": [
-            {
-                "Version": 1.0,
-                "Key": "client-api/basic-operations/deleting-documents"
-            }
-        ],
+        "Mappings": [],
         "IsPlaceholder": "true"
     },
     {
         "Path": "loading-entities.markdown",
         "Name": "Loading Entities",
-        "Mappings": [
-            {
-                "Version": 1.0,
-                "Key": "client-api/basic-operations/loading-editing-existing-document"
-            }
-        ],
+        "Mappings": [],
         "IsPlaceholder": "true"
     },
     {
         "Path": "saving-changes.markdown",
         "Name": "Saving changes",
-        "Mappings": [
-            {
-                "Version": 1.0,
-                "Key": "client-api/basic-operations/saving-new-document"
-            }
-        ],
+        "Mappings": [],
         "IsPlaceholder": "true"
     },
     {
@@ -88,6 +58,11 @@
     {
         "Path": "/how-to",
         "Name": "How to...",
+        "Mappings": []
+    },
+    {
+        "Path": "/counters",
+        "Name": "Counters",
         "Mappings": []
     }
 ]

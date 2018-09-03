@@ -1,0 +1,18 @@
+[
+  {
+    "Path": "what-are-counters.markdown",
+    "Name": "What are Counters",
+    "Mappings": [],
+    "SupportedVersions": [
+      "4.1"
+    ]
+  },
+  {
+    "Path": "counters-for.markdown",
+    "Name": "Session.CountersFor",
+    "Mappings": [],
+    "SupportedVersions": [
+      "4.1"
+    ]
+  }
+]
